@@ -45,21 +45,60 @@ import TruthTubeSDK
 ```swift
 let detector = TruthTubeDetector()
 let result = detector.analyze(title: "Breaking News!")
-```
 
-## Example Output
 
-```
-Status: Warning
-Reason: Possible AI-generated content
-Recommendation: Verify before sharing.
-```
+# 📊 Example Output
 
------
+```text
+Status
+Warning
+
+Reason
+Possible AI-generated or clickbait content detected.
+
+Recommendation
+Verify the information from trusted sources before sharing.
+
+
+# 🧠 Detection Categories
+
+The SDK checks for keywords commonly associated with:
+
+- AI-generated content
+- Deepfake content
+- Fake news
+- Clickbait
+- Misleading headlines
+- Sensational language
+
+
+-----**----
 
 📱 Requirements
 iOS 15.0+
 Swift 5.0+
 📄 License
 
-TruthTubeSDK is available under the MIT License.
+# 📄 License
+
+TruthTubeSDK is available under the **MIT License**.
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+If you'd like to improve the SDK:
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to your branch
+5. Open a Pull Request
+
+---
+
+# ⭐ Support
+
+If you find this project useful, please consider giving it a ⭐ on GitHub.
+
+It helps others discover the project and supports future improvements.
