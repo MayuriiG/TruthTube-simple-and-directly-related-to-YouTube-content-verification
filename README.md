@@ -16,10 +16,6 @@ TruthTubeSDK is an iOS framework that analyzes YouTube video titles to identify 
 
 ![Home](images/home.png)
 
-## Demo Video
-
-https://youtu.be/your-demo-video
-
 ## Features
 
 - AI content detection
