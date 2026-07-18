@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "TruthTubeSDK"
-  spec.version      = "1.0.3"
+  spec.version      = "1.0.4"
   spec.summary      = "A lightweight iOS SDK for YouTube content risk analysis."
 
   spec.description  = <<-DESC
