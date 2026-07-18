@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B95C9084-04AF-4312-9596-61CAFFD0B3BD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6921533-4304-4545-8823-8CBDDA731372"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Deepfake_Check_Project/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "analyzeButtonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F6921533-4304-4545-8823-8CBDDA731372 - b3fdc10b48434030"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Deepfake_Check_Project.ViewController.analyzeButtonTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "Deepfake_Check_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mayurigajbhiye/Desktop/Deepfake_Check_Project/Deepfake_Check_Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "766">
+               </Location>
+               <Location
+                  uuid = "F6921533-4304-4545-8823-8CBDDA731372 - f4c88e01c74f3ae1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Deepfake_Check_Project.ViewController.analyzeButtonTapped() -&gt; ()"
+                  moduleName = "Deepfake_Check_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mayurigajbhiye/Desktop/Deepfake_Check_Project/Deepfake_Check_Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11AF97C6-70C9-4E33-816D-AED0B50AB902"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Deepfake_Check_Project/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "analyzeButtonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11AF97C6-70C9-4E33-816D-AED0B50AB902 - 84a266549d9aa505"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Deepfake_Check_Project.ViewController.analyzeButtonTapped() -&gt; ()"
+                  moduleName = "Deepfake_Check_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mayurigajbhiye/Desktop/Deepfake_Check_Project/Deepfake_Check_Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "463">
+               </Location>
+               <Location
+                  uuid = "11AF97C6-70C9-4E33-816D-AED0B50AB902 - f4c88e01c74f3a6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Deepfake_Check_Project.ViewController.analyzeButtonTapped() -&gt; ()"
+                  moduleName = "Deepfake_Check_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mayurigajbhiye/Desktop/Deepfake_Check_Project/Deepfake_Check_Project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
