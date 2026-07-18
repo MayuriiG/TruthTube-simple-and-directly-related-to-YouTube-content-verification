@@ -8,7 +8,7 @@ TruthTube SDK is an iOS framework that analyzes YouTube video titles to identify
 
 TruthTubeSDK is an iOS framework that analyzes YouTube video titles to identify potentially fake, clickbait, or AI-generated content.
 
----
+--------
 
 # 📱 Project Demo
 
@@ -55,7 +55,7 @@ Reason: Possible AI-generated content
 Recommendation: Verify before sharing.
 ```
 
----
+-----
 
 📱 Requirements
 iOS 15.0+
